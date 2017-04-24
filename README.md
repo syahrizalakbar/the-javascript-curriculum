@@ -50,17 +50,17 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - [x] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
 - [x] Type in `npm`, do you see `Usage: npm <command>`?
 - You're ready to start learning, using the self guided workshoppers. Good luck!
-- [ ] Learn how to use Git and GitHub basics.
+- [x] Learn how to use Git and GitHub basics.
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
-- [ ] Learn JavaScript basics. No previous coding experience required.
+- [x] Learn JavaScript basics. No previous coding experience required.
   - Run `npm install -g javascripting`
   - Then `javascripting`
   - Additional info https://github.com/sethvincent/javascripting
 
 ### Become a Better JavaScript Developer
-- [ ] Learn the best practices of writing clean JavaScript code.
+- [x] Learn the best practices of writing clean JavaScript code.
   - Run `npm install -g js-best-practices`
 - [ ] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
